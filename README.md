@@ -30,12 +30,15 @@ Netlify
 Vercel
 
 Traditional Web Servers:
-🔧 Development Setup
+🔧 Development Setup:
+
 Recommended Editor: VS Code
+
 Install Live Server extension for real-time preview
 No build process required — edit files directly!
 
- ⚠️ Important Notes
+ ⚠️ Important Notes:
+
 Frontend-Only Demonstration
 Authentication simulated via localStorage
 Not production-ready (for demo purposes only)
